@@ -16,7 +16,11 @@ Noi dung them moi ben nhanh main
 
 Noi dung nhanh C duoc them vao
 
+
 Merge lan 2
 
 Merge lan 1
+
+
+merge lan 2
 
