@@ -12,3 +12,6 @@ Dung GIT GUI here
 Dung SourceTree
 
 Noi dung them moi ben nhanh main
+
+Noi dung nhanh C duoc them vao
+
