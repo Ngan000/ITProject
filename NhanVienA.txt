@@ -10,3 +10,5 @@ Toi day ket thuc
 Dung GIT GUI here
 
 Dung SourceTree
+
+Noi dung them moi ben nhanh main
