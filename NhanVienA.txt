@@ -12,3 +12,5 @@ Dung GIT GUI here
 Dung SourceTree
 
 Noi dung nhanh C duoc them vao
+
+merge lan 2
